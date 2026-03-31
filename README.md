@@ -1,11 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Dipesh Ghimire, an IT student with a strong foundation in Data Science, Machine Learning, and Software Development. I am passionate about creating software solutions that leverage AI and ML to solve real-world problems.
+I'm Dipesh Ghimire, an **Independent AI Engineer** passionate about building AI-powered systems and full-stack internal tools. I specialize in combining software engineering, AI workflows, and automation to solve real-world problems.  
 
-- 🔭 I’m currently working on **AI-powered applications** such as retail sales prediction and generative AI query systems.
-- 🌱 I’m currently learning more about **deep learning frameworks** and expanding my knowledge in **natural language processing**.
-- 🤔 I’m looking for help with **optimizing neural network models** and **scaling ML solutions**.
-- 💬 Ask me about **machine learning algorithms, data preprocessing, or deploying ML models**.
-- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dipesh-ghimire-25b480131/)) or email me at dipeshghimire.dg@gmail.com.
-- ⚡ Fun fact: I'm always up for learning about new AI tools and testing cutting-edge technologies!
+---
+
+## 🔭 What I’m Working On
+- Building **full-stackapplications** using **React/Next.js, Python, Django**.  
+- Designing **multi-step AI workflows** with **Langchain and RAG pipelines**.  
+- Developing **AI systems for data extraction and document processing**.  
+
+## 🌱 Currently Learning
+- Advanced **deep learning workflows** and **vector databases** like Pinecone, Weaviate, and pgvector.  
+- Full lifecycle **production deployment** with Google Cloud Platform, Docker and API integrations.  
+
+## 🤖 What I Can Help With
+- AI workflow design, **agent-based systems**, and RAG pipeline implementation.  
+- **Prompt engineering** and LLM function calling. 
+- **Full-stack web development** and deploying AI-powered tools for solving real problems.  
+
+## ⚡ Fun Fact
+I use **AI-assisted development tools like GitHub Copilot + Claude Code** daily to prototype rapidly,and ship products asap.
+
 
