@@ -1,11 +1,12 @@
 # Hi there 👋
 
-I'm Dipesh Ghimire, an **Independent AI Engineer** passionate about building AI-powered systems and full-stack internal tools. I specialize in combining software engineering, AI workflows, and automation to solve real-world problems.  
+I'm Dipesh Ghimire, an **Independent AI Engineer** passionate about building Full Stack AI-powered systems. 
+I specialize in combining software engineering, AI workflows, and automation to solve real-world problems.  
 
 ---
 
 ## 🔭 What I’m Working On
-- Building **full-stackapplications** using **React/Next.js, Python, Django**.  
+- Building **full-stackapplications** using **React/Next.js, Python, Django, FastAPI**.  
 - Designing **multi-step AI workflows** with **Langchain and RAG pipelines**.  
 - Developing **AI systems for data extraction and document processing**.  
 
