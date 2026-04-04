@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dipesh Ghimire, an **Independent AI Engineer** passionate about building Full Stack AI-powered systems. 
+I'm Dipesh Ghimire, an **Independent AI Developer** passionate about building Full Stack AI-powered systems. 
 I specialize in combining software engineering, AI workflows, and automation to solve real-world problems.  
 
 ---
